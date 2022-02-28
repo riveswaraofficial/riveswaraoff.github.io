@@ -33,12 +33,12 @@ h1 {
   color: green;
 }
     
- h2 {
+h2 {
   color: green;
 }
     
     
-div.profilepic  {
+.profilepic  {
   float: right;
   background-color: lightgrey;
   width: 300px;
@@ -47,7 +47,7 @@ div.profilepic  {
   margin: 20px;
     }
     
-div.gta5  {
+.GTA5  {
   float: right;
   background-color: black;
   width: 600px;
