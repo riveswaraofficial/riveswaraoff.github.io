@@ -30,10 +30,10 @@ body {
 
 h1 {
   color: black;
-  border: 15px solid green;
+  
 }
     
-h2 {border: 15px solid green;
+h2 {
   color: green;
   
 }
@@ -60,8 +60,23 @@ p{
   border: 10px solid red;
     }
 
+.reviews{
+  height: 600px;
+  border: 10px solid red;
+}
+
 img{
  float:left;
  width:500px;
  height:400px;
 }
+
+.description {
+  float: right;
+  background-color: green;
+  width: 200px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  color: black;
+ }
