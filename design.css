@@ -46,8 +46,8 @@ h2 {
     }
     
 .newspage {
-  width: 1500px;
-  height: 600px;
+  height: 50%;
+  width: 50%;
   border: 10px solid red;
   padding: 50px;
   margin: 20px;
