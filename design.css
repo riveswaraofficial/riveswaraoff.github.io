@@ -66,17 +66,18 @@ h2 {
 }
 
 .description {
-  float: right;
+  float: left;
   background-color: green;
-  width: 200px;
+  width: 700px;
   border: 15px solid green;
   padding: 50px;
   margin: 20px;
-  color: black;
+  color: white;
  }
 
 img{
  float:left;
+ clear:left;
  width:500px;
  height:400px;
 }
