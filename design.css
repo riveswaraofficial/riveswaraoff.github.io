@@ -47,9 +47,9 @@ h2 {
 }
       
 .profilepic {
-  float: right;
+  float: left;
   background-color: lightgrey;
-  width: 300px;
+  width: 100%;
   border: 15px solid green;
   padding: 50px;
   margin: 20px;
@@ -80,7 +80,3 @@ img{
  height:400px;
 }
 
-.img1 {
-float: left;
-clear:left;
-}
