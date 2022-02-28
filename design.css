@@ -58,11 +58,15 @@ h2 {
 .newspage {
   height: 700px;
   border: 10px solid red;
+  padding: 50px;
+  margin: 20px;
     }
 
 .favourite{
   height: 700px;
   border: 10px solid red;
+  padding: 50px;
+  margin: 20px;
 }
 
 .description {
