@@ -30,16 +30,21 @@ body {
 
 h1 {
   color: black;
+  border: 15px solid green;
 }
     
-h2 {
+h2 {border: 15px solid green;
   color: green;
+  
 }
 
 p{
   font-size: 50px;
   padding: 50px;
-  margin: 20px;}
+  margin: 20px;
+  border: 15px solid green;
+  
+}
       
 .profilepic {
   float: right;
