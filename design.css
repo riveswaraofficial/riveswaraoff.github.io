@@ -56,12 +56,12 @@ h2 {
     }
     
 .newspage {
-  height: 600px;
+  height: 700px;
   border: 10px solid red;
     }
 
 .favourite{
-  height: 600px;
+  height: 700px;
   border: 10px solid red;
 }
 
@@ -77,7 +77,10 @@ h2 {
 
 img{
  float:left;
- clear:left;
- width:500px;
  height:400px;
+}
+
+.img1 {
+float: left;
+clear:left;
 }
