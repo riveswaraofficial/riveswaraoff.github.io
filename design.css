@@ -30,6 +30,8 @@ body {
 
 h1 {
   color: black;
+  border: 10px solid red;
+  
   
 }
     
@@ -40,7 +42,7 @@ h2 {
 
 .text1{
   font-size: 50px;
-  padding: 50px;
+  padding: 90px;
   margin: 20px;
   border: 15px solid green;
   
