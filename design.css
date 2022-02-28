@@ -1,10 +1,9 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-color: white;
+  background-color: BLUE;
 }
     
-
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -36,9 +35,8 @@ h1 {
 h2 {
   color: green;
 }
-    
-    
-.profilepic  {
+      
+.profilepic {
   float: right;
   background-color: lightgrey;
   width: 300px;
@@ -47,7 +45,7 @@ h2 {
   margin: 20px;
     }
     
-.GTA5  {
+.GTA5 {
   float: right;
   background-color: black;
   width: 600px;
