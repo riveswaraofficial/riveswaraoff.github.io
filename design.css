@@ -51,6 +51,7 @@ h2 {
   float: right;
   background-color: black;
   width: 600px;
+  height: 20px;
   border: 20px solid red;
   border-style: solid;
   border-color: green;
