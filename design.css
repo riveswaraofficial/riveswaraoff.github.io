@@ -52,6 +52,8 @@ div.gta5  {
   background-color: black;
   width: 600px;
   border: 20px solid red;
+  border-style: solid;
+  border-color: green;
   padding: 50px;
   margin: 20px;
     }
