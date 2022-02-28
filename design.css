@@ -58,17 +58,12 @@ h2 {
 .newspage {
   height: 600px;
   border: 10px solid red;
+  padding: 90px;
     }
 
 .reviews{
   height: 600px;
   border: 10px solid red;
-}
-
-img{
- float:left;
- width:500px;
- height:400px;
 }
 
 .description {
@@ -80,3 +75,9 @@ img{
   margin: 20px;
   color: black;
  }
+
+img{
+ float:left;
+ width:500px;
+ height:400px;
+}
