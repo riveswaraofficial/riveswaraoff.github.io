@@ -2,6 +2,7 @@ body {
   margin: 0;
   font-family: comic sans;
   background-color: white;
+  max-width: 500px;
 }
     
 .topnav {
