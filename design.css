@@ -81,9 +81,9 @@ h2 {
   color: white;
  }
 
-img{
+.imagecrop{
  float:left;
- height:400px;
+ height:481px;
  max-width: 481px;
 
 }
