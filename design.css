@@ -30,13 +30,13 @@ body {
 
 h1 {
   text-align: center;
-  color: white;
+  color: green;
   
 }
     
 h2 {
   text-align: center;
- color: white;
+ color: blue;
   
 }
 
@@ -92,13 +92,13 @@ h2 {
 
 .title1 {
   float: left;
-  font-size:100px;
+  font-size:30px;
   color: white;
 }
 
 .title2 {
   float: left;
-  font-size:50px;
+  font-size:15px;
   color: white;
 }
 
