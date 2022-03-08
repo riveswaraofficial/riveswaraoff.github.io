@@ -83,8 +83,9 @@ h2 {
   color: white;
  }
 
-.imagecrop{
+.imagecrop {
  float:left;
+ object-fit: cover;
  height:481px;
  max-width: 481px;
 
