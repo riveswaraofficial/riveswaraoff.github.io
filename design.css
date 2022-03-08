@@ -57,7 +57,6 @@ h2 {
     
 .newspage {
   float: left;
-  clear: left;
   height: 1000px;
   max-width: 600px;
   border: 7px solid red;
@@ -67,7 +66,7 @@ h2 {
 
 .favourite{
   float: left;
-  height: 700px;
+  height: 1000px;
   max-width: 481px;
   border: 10px solid red;
   padding: 50px;
@@ -97,7 +96,7 @@ h2 {
   font-color: white;
 }
 
-.title1 {
+.title2 {
   float: left;
   font-size:50px;
   font-color: white;
