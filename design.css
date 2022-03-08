@@ -29,12 +29,14 @@ body {
 }
 
 h1 {
-  font-color: white;
+  text-align: center;
+  color: white;
   
 }
     
 h2 {
-  font-color: white;
+  text-align: center;
+ color: white;
   
 }
 
@@ -56,17 +58,15 @@ h2 {
     }
     
 .newspage {
-  float: left;
-  height: 1000px;
-  max-width: 600px;
+  height: 100%;
+  max-width: 481px;
   border: 7px solid red;
   padding: 50px;
   margin: 20px;
     }
 
 .favourite{
-  float: left;
-  height: 1000px;
+  height: 100%;
   max-width: 481px;
   border: 10px solid red;
   padding: 50px;
@@ -84,7 +84,6 @@ h2 {
  }
 
 .imagecrop {
- float:left;
  object-fit: cover;
  height:481px;
  max-width: 481px;
@@ -94,12 +93,12 @@ h2 {
 .title1 {
   float: left;
   font-size:100px;
-  font-color: white;
+  color: white;
 }
 
 .title2 {
   float: left;
   font-size:50px;
-  font-color: white;
+  color: white;
 }
 
